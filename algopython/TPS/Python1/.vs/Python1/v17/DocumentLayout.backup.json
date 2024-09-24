@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thoma\\source\\repos\\Python1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38D515-2952-4025-98F5-CB05457E85A6}|Python1\\Python1.pyproj|C:\\Users\\thoma\\source\\repos\\Python1\\Python1\\upper_lower.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7E38D515-2952-4025-98F5-CB05457E85A6}|Python1\\Python1.pyproj|solutionrelative:Python1\\upper_lower.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38D515-2952-4025-98F5-CB05457E85A6}|Python1\\Python1.pyproj|C:\\Users\\thoma\\source\\repos\\Python1\\Python1\\moyenne.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7E38D515-2952-4025-98F5-CB05457E85A6}|Python1\\Python1.pyproj|solutionrelative:Python1\\moyenne.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "upper_lower.py",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\Python1\\Python1\\upper_lower.py",
+              "RelativeDocumentMoniker": "Python1\\upper_lower.py",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\Python1\\Python1\\upper_lower.py",
+              "RelativeToolTip": "Python1\\upper_lower.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-24T09:49:45.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "moyenne.py",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\Python1\\Python1\\moyenne.py",
+              "RelativeDocumentMoniker": "Python1\\moyenne.py",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\Python1\\Python1\\moyenne.py",
+              "RelativeToolTip": "Python1\\moyenne.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-24T05:49:56.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
